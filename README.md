@@ -59,21 +59,7 @@ Bash
 
     pip install -r requirements.txt
 
-kullanım
 
-Exemplos de como usar o projeto.
-Python
-
-# Exemplo de como usar uma função da minha biblioteca
-import seu_projeto
-
-resultado = projeto.funcao_principal()
-print(resultado)
-
-Para uma aplicação web, você pode incluir o comando para iniciar o servidor:
-Bash
-
-npm start
 
 # Construído Com
 
