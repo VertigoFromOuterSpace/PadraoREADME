@@ -3,6 +3,8 @@ Padrão README que estarei seguindo para meus futuros projetos a partir de hoje,
 
 ---
 
+...
+
 # Nome do Projeto
 
 Uma breve descrição concisa e informativa sobre a finalidade do projeto.
