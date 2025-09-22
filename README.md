@@ -86,6 +86,9 @@ Se vocẽ quiser apoiar o meu projeto, essa daqui vai ser a área com que eu ire
     Abra um Pull Request
 
 
+
+
+
 # Licença
 
 Maioria dos meus projetos serão open source, mas caso contrário, estará explícito aqui.
